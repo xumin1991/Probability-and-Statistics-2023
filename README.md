@@ -35,10 +35,10 @@
 
 | 周次 | 时数 | 日期 | 阅读章节 | 课件 | 作业 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 一 | 2 | 9 月 | §1.1 基本概念、§1.2 事件的概率 | PPT 第一章_随机事件: 1-28 | 1.1-1.5|
-| 二 | 2 | 9 月 | §1.3 古典概率 | PPT 第一章_随机事件: 29-46 | 1.6-1.10|
-| 三 | 2 | 9 月 | §1.4 条件概率 | PPT 第一章_随机事件: 47-68 | 1.13-1.15, 1.17, 1.18, 1.20, 1.22|
-| 四 | 2 | 9 月 | §1.5 事件的独立性、第一章习题课 | PPT 第一章_随机事件: 69-80 | 1.23, 1.24|
+| 一 | 2 | 9 月 | §1.1 基本概念、§1.2 事件的概率 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 1-28 | 1.1-1.5|
+| 二 | 2 | 9 月 | §1.3 古典概率 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 29-46 | 1.6-1.10|
+| 三 | 2 | 9 月 | §1.4 条件概率 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 47-68 | 1.13-1.15, 1.17, 1.18, 1.20, 1.22|
+| 四 | 2 | 9 月 | §1.5 事件的独立性、第一章习题课 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 69-80 | 1.23, 1.24|
 
 
 
