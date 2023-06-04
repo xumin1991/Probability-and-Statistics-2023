@@ -1,3 +1,5 @@
+<img src="cover.jpeg" width="500">
+
 # 概率轮与数理统计(经)
 
 1. 教学大纲
