@@ -36,8 +36,12 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 一 | 2 | 9 月 | §1.1 基本概念、§1.2 事件的概率 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 1-28 | 1.1-1.5|
 | 一 | 2 | 9 月 | §1.3 古典概率 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 29-46 | 1.6-1.10|
-| 二 | 2 | 9 月 | §1.4 条件概率 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 47-68 | 1.13-1.15, 1.17, 1.18, 1.20, 1.22|
-| 二 | 2 | 9 月 | §1.5 事件的独立性、第一章习题课 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 69-80 | 1.23, 1.24|
+| 二 | 2 | 9 月 | §1.4 条件概率 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 47-68 | 1.13-1.15, 1.17, 1.18, 1.20, 1.22 | 
+| 二 | 2 | 9 月 | §1.5 事件的独立性、第一章习题课 | [第一章](https://github.com/xumin1991/Probability-and-Statistics-2023/blob/Min/PPT/%E7%AC%AC%E4%B8%80%E7%AB%A0_%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf): 69-80 | 1.23, 1.24 |
+| 三 | 2 | 9 月 | §2.1 随机变量的定义、2.2 离散型随机变量 | [第二章](): 1-40 | 2.2, 2.4, 2.5, 2.6, 2.7 |
+| 三 | 2 | 9 月 | §2.3 连续型随机变量  | [第二章](): 41-72 | 2.8，2.9，2.11，2.12 |
+| 四 | 2 | 9 月 | §2.4 随机变量函数的分布、第二章习题课 | [第二章](): 41-72 | 2.15, 2.16, 2.18, 2.21, 2.22 |
+
 
 
 
