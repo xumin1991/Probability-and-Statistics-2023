@@ -9,4 +9,4 @@
 3. **习题课材料**
 4. **知识点不完全汇总** (建议以此为基础复习, 不完全是指“只给出概念, 实质缺的很多”, 还需要更多自己的补充)
 
-有任何问题, 欢迎在 [公共休息区](https://github.com/xumin1991/Probability-and-Statistics-2023/issues/1) 讨论.
+有任何问题, 欢迎在 [课程公共休息区](https://github.com/xumin1991/Probability-and-Statistics-2023/issues/1) 留言讨论.
